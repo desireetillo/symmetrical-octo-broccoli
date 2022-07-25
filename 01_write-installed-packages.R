@@ -1,15 +1,9 @@
-## deja vu from earlier!
 
-## create a data frame of your installed packages
-## hint: installed.packages() is the function you need
-
-
-## optional: select just some of the variables, such as
-##   * Package
-##   * LibPath
-##   * Version
-##   * Priority
-##   * Built
+#'---
+#' author: ""
+#' date: "`r format(Sys.Date())`"
+#' output: github_document
+#'---
 
 library(tidyverse)
 ip<-installed.packages() %>% as_tibble()
