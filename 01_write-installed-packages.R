@@ -14,7 +14,7 @@
 library(tidyverse)
 ip<-installed.packages() %>% as_tibble()
 sel_ip <- ip %>% select(Package,LibPath,Version,Priority,Built)
-readr::write_csv(sel_ip,here::here("data/installed-packages.csv"))
+readr::write_csv(sel_ip,"installed-packages.csv")
 
 
 ## write this data frame to data/installed-packages.csv
