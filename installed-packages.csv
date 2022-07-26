@@ -123,7 +123,7 @@ DOSE,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,3.18.3,NA,4.
 DOT,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.1,NA,4.1.0
 downlit,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.4.2,NA,4.2.0
 downloader,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.4,NA,4.1.0
-dplyr,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.0.9,NA,4.1.2
+dplyr,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.0.9,NA,4.2.0
 DT,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.23,NA,4.1.2
 dtplyr,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.2.1,NA,4.1.2
 e1071,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.7-11,NA,4.2.0
@@ -205,6 +205,7 @@ ggthemes,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,4.2.4,NA
 ggtree,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,3.0.4,NA,4.1.1
 ggvenn,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.1.9,NA,4.1.0
 gh,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.3.0,NA,4.1.0
+gitcellar,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.0.0.9000,NA,4.2.1
 gitcreds,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.1.1,NA,4.1.0
 gld,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,2.6.5,NA,4.2.0
 GlobalOptions,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.1.2,NA,4.1.0
@@ -412,6 +413,7 @@ registry,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.5-1,NA
 rematch,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,1.0.1,NA,4.1.0
 rematch2,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,2.1.2,NA,4.1.0
 remotes,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,2.4.2,NA,4.1.0
+renv,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.15.5,NA,4.2.0
 repmis,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.5,NA,4.1.0
 reprex,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,2.0.1,NA,4.1.0
 reshape,/Library/Frameworks/R.framework/Versions/4.2/Resources/library,0.8.9,NA,4.1.1
