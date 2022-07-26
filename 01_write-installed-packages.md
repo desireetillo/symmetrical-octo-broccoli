@@ -1,8 +1,10 @@
 01_write-installed-packages.R
 ================
-2022-07-25
+2022-07-26
 
 ``` r
+# insightful comment
+
 library(tidyverse)
 ```
 

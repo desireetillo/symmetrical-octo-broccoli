@@ -5,6 +5,8 @@
 #' output: github_document
 #'---
 
+# insightful comment
+
 library(tidyverse)
 ip<-installed.packages() %>% as_tibble()
 sel_ip <- ip %>% select(Package,LibPath,Version,Priority,Built)
