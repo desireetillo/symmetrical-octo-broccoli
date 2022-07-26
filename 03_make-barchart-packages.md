@@ -14,7 +14,7 @@
 apt_freqtable<-readr::read_csv("add-on-packages-freqtable.csv")
 ```
 
-    ## Rows: 6 Columns: 3
+    ## Rows: 4 Columns: 3
     ## ── Column specification ────────────────────────────────────────────────────────
     ## Delimiter: ","
     ## chr (1): Built
